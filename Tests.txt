@@ -1,0 +1,865 @@
+Test Transcript
+
+Correct Execution:
+1. Game asks for the name of the player.
+2. Roll a dice to decide the turn order.
+3. The first player starts its turn and gets the corresponding points according with its rolls.
+4. The second player follows with its turn.
+5. After 6 rounds the winner is announced.
+6. The program asks the user if they would like to play again.
+
+Transcript 1: 
+
+Welcome to Bunco
+Please type the name of the player: 
+Nat
+Deciding turns
+Nat roll is: 3
+Computer roll is: 3
+Computer goes first!
+
+This is game 1
+Round 1
+It's Computer turn!
+
+Rolling...
+First dice: 3
+Second dice: 2
+Third dice: 2
+You didn't get any points. End of your turn.
+
+Your score is: 0
+
+It's Nat turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 3
+Second dice: 4
+Third dice: 2
+You didn't get any points. End of your turn.
+
+Your score is: 0
+
+Round 2
+It's Computer turn!
+
+Rolling...
+First dice: 3
+Second dice: 1
+Third dice: 5
+You didn't get any points. End of your turn.
+
+Your score is: 0
+
+It's Nat turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 5
+Second dice: 2
+Third dice: 5
+You get 1 point!
+
+Please press enter to roll
+
+Rolling...
+First dice: 4
+Second dice: 6
+Third dice: 5
+You didn't get any points. End of your turn.
+
+Your score is: 1
+
+Round 3
+It's Computer turn!
+
+Rolling...
+First dice: 2
+Second dice: 6
+Third dice: 6
+You didn't get any points. End of your turn.
+
+Your score is: 0
+
+It's Nat turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 3
+Second dice: 2
+Third dice: 6
+You get 1 point!
+
+Please press enter to roll
+
+Rolling...
+First dice: 1
+Second dice: 5
+Third dice: 3
+You get 1 point!
+
+Please press enter to roll
+
+Rolling...
+First dice: 5
+Second dice: 6
+Third dice: 5
+You didn't get any points. End of your turn.
+
+Your score is: 3
+
+Round 4
+It's Computer turn!
+
+Rolling...
+First dice: 3
+Second dice: 3
+Third dice: 6
+You didn't get any points. End of your turn.
+
+Your score is: 0
+
+It's Nat turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 6
+Second dice: 1
+Third dice: 4
+You get 1 point!
+
+Please press enter to roll
+
+Rolling...
+First dice: 5
+Second dice: 6
+Third dice: 6
+You didn't get any points. End of your turn.
+
+Your score is: 4
+
+Round 5
+It's Computer turn!
+
+Rolling...
+First dice: 4
+Second dice: 5
+Third dice: 5
+You get 1 point!
+
+Rolling...
+First dice: 2
+Second dice: 4
+Third dice: 1
+You didn't get any points. End of your turn.
+
+Your score is: 1
+
+It's Nat turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 1
+Second dice: 6
+Third dice: 1
+You didn't get any points. End of your turn.
+
+Your score is: 4
+
+Round 6
+It's Computer turn!
+
+Rolling...
+First dice: 5
+Second dice: 5
+Third dice: 5
+You didn't get any points. End of your turn.
+
+Your score is: 1
+
+It's Nat turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 6
+Second dice: 3
+Third dice: 2
+You get 1 point!
+
+Please press enter to roll
+
+Rolling...
+First dice: 5
+Second dice: 2
+Third dice: 6
+You get 1 point!
+
+Please press enter to roll
+
+Rolling...
+First dice: 3
+Second dice: 3
+Third dice: 4
+You didn't get any points. End of your turn.
+
+Your score is: 6
+
+End of the game! 
+
+The winner is Nat
+Total games played: 1
+Total wins
+Nat: 1
+Computer: 0
+Would you like to play again?
+
+Transcript 2
+Welcome to Bunco
+Please type the name of the player: 
+Player1
+Deciding turns
+Player1 roll is: 6
+Computer roll is: 6
+Computer goes first!
+
+This is game 1
+Round 1
+It's Computer turn!
+
+Rolling...
+First dice: 1
+Second dice: 4
+Third dice: 2
+You get 1 point!
+
+Rolling...
+First dice: 5
+Second dice: 4
+Third dice: 2
+You didn't get any points. End of your turn.
+
+Your score is: 1
+
+It's Player1 turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 2
+Second dice: 2
+Third dice: 5
+You didn't get any points. End of your turn.
+
+Your score is: 0
+
+Round 2
+It's Computer turn!
+
+Rolling...
+First dice: 2
+Second dice: 2
+Third dice: 4
+You get 1 point!
+
+Rolling...
+First dice: 2
+Second dice: 1
+Third dice: 3
+You get 1 point!
+
+Rolling...
+First dice: 3
+Second dice: 6
+Third dice: 1
+You didn't get any points. End of your turn.
+
+Your score is: 3
+
+It's Player1 turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 5
+Second dice: 3
+Third dice: 6
+You didn't get any points. End of your turn.
+
+Your score is: 0
+
+Round 3
+It's Computer turn!
+
+Rolling...
+First dice: 4
+Second dice: 3
+Third dice: 5
+You get 1 point!
+
+Rolling...
+First dice: 1
+Second dice: 1
+Third dice: 4
+You didn't get any points. End of your turn.
+
+Your score is: 4
+
+It's Player1 turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 2
+Second dice: 2
+Third dice: 2
+You didn't get any points. End of your turn.
+
+Your score is: 0
+
+Round 4
+It's Computer turn!
+
+Rolling...
+First dice: 3
+Second dice: 3
+Third dice: 2
+You didn't get any points. End of your turn.
+
+Your score is: 4
+
+It's Player1 turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 4
+Second dice: 5
+Third dice: 1
+You get 1 point!
+
+Please press enter to roll
+
+Rolling...
+First dice: 6
+Second dice: 6
+Third dice: 5
+You didn't get any points. End of your turn.
+
+Your score is: 1
+
+Round 5
+It's Computer turn!
+
+Rolling...
+First dice: 3
+Second dice: 6
+Third dice: 6
+You didn't get any points. End of your turn.
+
+Your score is: 4
+
+It's Player1 turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 5
+Second dice: 4
+Third dice: 4
+You get 1 point!
+
+Please press enter to roll
+
+Rolling...
+First dice: 1
+Second dice: 4
+Third dice: 4
+You didn't get any points. End of your turn.
+
+Your score is: 2
+
+Round 6
+It's Computer turn!
+
+Rolling...
+First dice: 1
+Second dice: 1
+Third dice: 1
+It's a miniBunco, you get 5 points!
+
+Rolling...
+First dice: 6
+Second dice: 5
+Third dice: 2
+You get 1 point!
+
+Rolling...
+First dice: 5
+Second dice: 5
+Third dice: 4
+You didn't get any points. End of your turn.
+
+Your score is: 10
+
+It's Player1 turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 5
+Second dice: 3
+Third dice: 2
+You didn't get any points. End of your turn.
+
+Your score is: 2
+
+End of the game! 
+
+The winner is Computer
+Total games played: 1
+Total wins
+Player1: 0
+Computer: 1
+Would you like to play again?
+
+Thank you for playing!
+
+Transcript 3:
+Welcome to Bunco
+Please type the name of the player: 
+Potter
+Deciding turns
+Potter roll is: 4
+Computer roll is: 1
+Potter goes first!
+
+This is game 1
+Round 1
+
+It's Potter turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 6
+Second dice: 3
+Third dice: 1
+You get 1 point!
+
+Please press enter to roll
+
+Rolling...
+First dice: 4
+Second dice: 1
+Third dice: 4
+You get 1 point!
+
+Please press enter to roll
+
+Rolling...
+First dice: 6
+Second dice: 1
+Third dice: 2
+You get 1 point!
+
+Please press enter to roll
+
+Rolling...
+First dice: 2
+Second dice: 3
+Third dice: 3
+You didn't get any points. End of your turn.
+
+Your score is: 3
+
+It's Computer turn!
+
+Rolling...
+First dice: 3
+Second dice: 2
+Third dice: 5
+You didn't get any points. End of your turn.
+
+Your score is: 0
+
+Round 2
+
+It's Potter turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 2
+Second dice: 5
+Third dice: 4
+You get 1 point!
+
+Please press enter to roll
+
+Rolling...
+First dice: 6
+Second dice: 5
+Third dice: 6
+You didn't get any points. End of your turn.
+
+Your score is: 4
+
+It's Computer turn!
+
+Rolling...
+First dice: 5
+Second dice: 2
+Third dice: 3
+You get 1 point!
+
+Rolling...
+First dice: 3
+Second dice: 6
+Third dice: 5
+You didn't get any points. End of your turn.
+
+Your score is: 1
+
+Round 3
+
+It's Potter turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 4
+Second dice: 1
+Third dice: 5
+You didn't get any points. End of your turn.
+
+Your score is: 4
+
+It's Computer turn!
+
+Rolling...
+First dice: 6
+Second dice: 4
+Third dice: 4
+You didn't get any points. End of your turn.
+
+Your score is: 1
+
+Round 4
+
+It's Potter turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 6
+Second dice: 2
+Third dice: 2
+You didn't get any points. End of your turn.
+
+Your score is: 4
+
+It's Computer turn!
+
+Rolling...
+First dice: 6
+Second dice: 5
+Third dice: 1
+You didn't get any points. End of your turn.
+
+Your score is: 1
+
+Round 5
+
+It's Potter turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 6
+Second dice: 6
+Third dice: 1
+You didn't get any points. End of your turn.
+
+Your score is: 4
+
+It's Computer turn!
+
+Rolling...
+First dice: 4
+Second dice: 2
+Third dice: 3
+You didn't get any points. End of your turn.
+
+Your score is: 1
+
+Round 6
+
+It's Potter turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 1
+Second dice: 5
+Third dice: 4
+You didn't get any points. End of your turn.
+
+Your score is: 4
+
+It's Computer turn!
+
+Rolling...
+First dice: 3
+Second dice: 1
+Third dice: 1
+You didn't get any points. End of your turn.
+
+Your score is: 1
+
+End of the game! 
+
+The winner is Potter
+Total games played: 1
+Total wins
+Potter: 1
+Computer: 0
+Would you like to play again?
+yes
+Deciding turns
+Potter roll is: 6
+Computer roll is: 3
+Potter goes first!
+
+This is game 2
+Round 1
+
+It's Potter turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 4
+Second dice: 3
+Third dice: 5
+You didn't get any points. End of your turn.
+
+Your score is: 0
+
+It's Computer turn!
+
+Rolling...
+First dice: 2
+Second dice: 5
+Third dice: 2
+You didn't get any points. End of your turn.
+
+Your score is: 0
+
+Round 2
+
+It's Potter turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 1
+Second dice: 6
+Third dice: 3
+You didn't get any points. End of your turn.
+
+Your score is: 0
+
+It's Computer turn!
+
+Rolling...
+First dice: 2
+Second dice: 2
+Third dice: 1
+You get 1 point!
+
+Rolling...
+First dice: 4
+Second dice: 2
+Third dice: 4
+You get 1 point!
+
+Rolling...
+First dice: 4
+Second dice: 1
+Third dice: 5
+You didn't get any points. End of your turn.
+
+Your score is: 2
+
+Round 3
+
+It's Potter turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 4
+Second dice: 6
+Third dice: 6
+You didn't get any points. End of your turn.
+
+Your score is: 0
+
+It's Computer turn!
+
+Rolling...
+First dice: 6
+Second dice: 1
+Third dice: 6
+You didn't get any points. End of your turn.
+
+Your score is: 2
+
+Round 4
+
+It's Potter turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 4
+Second dice: 4
+Third dice: 6
+You get 1 point!
+
+Please press enter to roll
+
+Rolling...
+First dice: 4
+Second dice: 2
+Third dice: 6
+You get 1 point!
+
+Please press enter to roll
+
+Rolling...
+First dice: 3
+Second dice: 1
+Third dice: 5
+You didn't get any points. End of your turn.
+
+Your score is: 2
+
+It's Computer turn!
+
+Rolling...
+First dice: 4
+Second dice: 6
+Third dice: 4
+You get 1 point!
+
+Rolling...
+First dice: 2
+Second dice: 4
+Third dice: 2
+You get 1 point!
+
+Rolling...
+First dice: 4
+Second dice: 1
+Third dice: 6
+You get 1 point!
+
+Rolling...
+First dice: 3
+Second dice: 2
+Third dice: 2
+You didn't get any points. End of your turn.
+
+Your score is: 5
+
+Round 5
+
+It's Potter turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 5
+Second dice: 4
+Third dice: 4
+You get 1 point!
+
+Please press enter to roll
+
+Rolling...
+First dice: 5
+Second dice: 5
+Third dice: 5
+You get 1 point!
+
+Please press enter to roll
+
+Rolling...
+First dice: 4
+Second dice: 5
+Third dice: 5
+You get 1 point!
+
+Please press enter to roll
+
+Rolling...
+First dice: 2
+Second dice: 2
+Third dice: 3
+You didn't get any points. End of your turn.
+
+Your score is: 5
+
+It's Computer turn!
+
+Rolling...
+First dice: 6
+Second dice: 6
+Third dice: 1
+You didn't get any points. End of your turn.
+
+Your score is: 5
+
+Round 6
+
+It's Potter turn!
+
+Please press enter to roll
+
+Rolling...
+First dice: 1
+Second dice: 4
+Third dice: 2
+You didn't get any points. End of your turn.
+
+Your score is: 5
+
+It's Computer turn!
+
+Rolling...
+First dice: 4
+Second dice: 1
+Third dice: 2
+You didn't get any points. End of your turn.
+
+Your score is: 5
+
+End of the game! 
+
+The winner is Computer
+Total games played: 2
+Total wins
+Potter: 1
+Computer: 1
+Would you like to play again?
+
+Thank you for playing!
+
